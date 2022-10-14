@@ -9,8 +9,7 @@
 
 [[plugins]]
   package = "netlify-plugin-cypress"
-    enable = false
-
+    
   [plugins.inputs.postBuild]
     enable = true
 
